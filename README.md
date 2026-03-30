@@ -40,8 +40,12 @@
 
 ## 📫 Connect with me
 
-<p>
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+<p align="left">
+<a href="https://www.linkedin.com/in/abhishek-singh-76766237a/" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
+</a>
+
+<a href="https://github.com/ABHISHEKSINGH-64" target="blank">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
 </a>
 </p>
